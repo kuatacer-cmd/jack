@@ -1,0 +1,6 @@
+{
+  "name": "FocusMind",
+  "description": "Your AI-powered second brain and productivity platform for focus, habits, self-improvement, and discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
